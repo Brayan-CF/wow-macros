@@ -1,0 +1,6 @@
+
+holy light mouseover:
+#showtooltip Holy Light
+/startattack
+/cast [@mouseover, exists] Holy Light; Holy Light
+/startattack
