@@ -1,6 +1,4 @@
-
 Cancel hand of protection:
-
 #showtooltip Hammer of Justice
 /stopcasting
 /cast Hammer of Justice
