@@ -1,7 +1,4 @@
-# Retribution
-```lua
-#showtooltip
 
-/cast consegration
+#showtooltip
+/cast Hammer of the Righteous
 /startattack
-```
