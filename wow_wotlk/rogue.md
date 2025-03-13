@@ -1,4 +1,5 @@
 ### Macros para el rogue
+---
 #### PVE macros para el rogue combate
 
 1. Macro para Subidón de adrenalina con modificador de objetivo:
